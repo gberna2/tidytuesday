@@ -38,4 +38,4 @@ ggplot(data = map_data("state"), aes(long, lat, group=group))+
         legend.title = element_text(hjust = .5,
                                     size = 9),
         plot.background = element_rect(fill="#F2F2F2"),
-        plot.margin = margin(2, 2, .9, 2, "cm")) #c
+        plot.margin = margin(2, 2, .9, 2, "cm")) #cdcs
