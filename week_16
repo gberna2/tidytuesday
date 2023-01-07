@@ -2,7 +2,7 @@
 library(tidyverse)
 library(tidytext)
 library(ggthemes)
-
+#########################
 # read in data
 big_dave <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-04-19/big_dave.csv')
 
